@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+plotly
+tensorflow
+scikit-learn
+streamlit
+kiwisolver
+altair==4.1.0
