@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monthly Climate Report</title>
+    <link rel="stylesheet" href="/static/css/style.css"> <!-- Link to CSS for styling -->
+</head>
+<body>
+    <h1>Monthly Climate Report</h1>
+    <div id="report">
+        <table>
+            <thead>
+                <tr>
+                    <th>Date</th>
+                    <th>Temperature (°C)</th>
+                    <th>Humidity (%)</th>
+                    <th>Precipitation (mm)</th>
+                </tr>
+            </thead>
+            <tbody id="climate-data">
+                <!-- Climate data will be dynamically populated here -->
+            </tbody>
+        </table>
+    </div>
+
+    <script src="/static/js/fetchClimateData.js"></script>
+</body>
+</html>

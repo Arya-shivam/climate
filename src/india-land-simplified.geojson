@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": { "ST_NM": "Delhi" },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [[77.0689, 28.4126], [77.1995, 28.5245], [77.3144, 28.4085], [77.1406, 28.3752], [77.0689, 28.4126]]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": { "ST_NM": "Maharashtra" },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [[72.7758, 18.5246], [73.0036, 18.9067], [73.8567, 19.2117], [72.7758, 18.5246]]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": { "ST_NM": "Karnataka" },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [[76.5518, 12.2958], [76.9412, 12.2958], [77.4747, 12.9716], [76.5518, 12.2958]]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": { "ST_NM": "West Bengal" },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [[88.3299, 22.5726], [88.3639, 22.4950], [87.8550, 23.2330], [88.3299, 22.5726]]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": { "ST_NM": "Tamil Nadu" },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [[80.2707, 13.0827], [78.6569, 10.7905], [77.5436, 12.9762], [80.2707, 13.0827]]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": { "ST_NM": "Telangana" },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [[78.4867, 17.3850], [78.4989, 17.4116], [79.6121, 18.1124], [78.4867, 17.3850]]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": { "ST_NM": "Gujarat" },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [[72.6266, 23.0225], [73.1812, 22.3072], [71.1924, 22.3094], [72.6266, 23.0225]]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": { "ST_NM": "Rajasthan" },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [[74.2179, 26.9124], [73.8567, 25.1972], [75.8136, 24.5854], [74.2179, 26.9124]]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": { "ST_NM": "Uttar Pradesh" },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [[80.9462, 26.8467], [82.2047, 25.3176], [81.6296, 27.5695], [80.9462, 26.8467]]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": { "ST_NM": "Andhra Pradesh" },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [[81.2719, 16.5062], [81.5304, 15.8281], [80.6950, 16.3067], [81.2719, 16.5062]]
+                ]
+            }
+        }
+    ]
+}
